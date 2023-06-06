@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Allan
 - 👀 I’m interested in all things related to computer software and hardware
 - 🌱 I’m currently learning C++ and python
-- 📫 How to reach me -  aldong@ucsd.edu
+- 📫 You can reach me at -  aldong@ucsd.edu
